@@ -1,5 +1,3 @@
-# BlinkIT-Grocery-Sales-Analysis-PowerBI
-Exploratory Data Analysis of BlinkIT grocery sales data using Power BI — covering outlet performance, item categories, fat content, location tiers, and an interactive dashboard.
 # 🛒 BlinkIT Grocery Sales Analysis — Power BI Dashboard
 
 ## 📌 Project Overview
